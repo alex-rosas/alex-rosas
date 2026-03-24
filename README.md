@@ -15,11 +15,25 @@
 
 ## 🧠 About Me
 
-I'm an **applied mathematician** (PhD, Institut Polytechnique de Paris) who crossed the boundary into AI engineering — not as a career pivot, but as a natural extension of what I've always done: build rigorous models of complex systems.
+## About me
 
-My PhD was spent proving things about electromagnetic waves in metamaterials. My postdoctoral work at **INRIA Paris-Saclay** was spent writing high-performance 3D simulation code in Python and Matlab. The jump to AI wasn't a leap of faith — it was a structured, 1,500-hour deep-dive through the full modern AI stack, culminating in 10 DataCamp career certifications and production-ready projects.
+I am an **applied mathematician** (PhD, Institut Polytechnique de Paris) working at the intersection of **data science, machine learning, and AI engineering.** My move into AI was not a career pivot but a natural continuation of what I have always done: building rigorous quantitative models of complex systems and translating theory into reliable computational solutions.
 
-I care about **mathematical rigour in ML**: understanding *why* a model works, not just that it does. My background in PDEs, stochastic processes, and numerical analysis gives me tools most ML engineers don't have — and I use them.
+During my PhD, I studied electromagnetic wave propagation in metamaterials using tools from **partial differential equations, stochastic modelling, and numerical simulation.** This training developed strong abstraction skills, algorithmic thinking, and scientific computing discipline — capabilities that transfer directly to modern ML challenges such as time-series forecasting, probabilistic modelling, and optimisation under uncertainty.
+
+To complement this mathematical foundation, I completed a structured **1,500-hour deep dive across the modern AI stack**, covering statistical learning, feature engineering, deep learning fundamentals, model evaluation, experiment tracking, and deployment workflows. This journey culminated in multiple DataCamp career certifications and a portfolio of **production-grade, fully reproducible projects** built with real engineering standards in mind.
+
+I focus on **designing end-to-end machine learning systems that are both performant and trustworthy.** My work emphasises:
+
+- robust data pipelines and feature architectures  
+- empirically validated model selection rather than trend-driven choices  
+- uncertainty quantification and model risk awareness  
+- hybrid approaches combining econometrics and machine learning  
+- reproducibility through modular codebases, experiment tracking, and tools such as DVC  
+
+What differentiates my profile is the ability to move fluidly between **mathematical reasoning and practical implementation.** I am comfortable deriving models from first principles, but equally focused on delivering scalable solutions that operate under real-world constraints.
+
+I am particularly interested in opportunities involving **time-series modelling, forecasting systems, quantitative ML, and AI engineering problems where statistical rigour and engineering quality are critical.**
 
 > *"The unreasonable effectiveness of mathematics in the natural sciences" — Wigner, 1960. I'd add: and in machine learning.*
 
