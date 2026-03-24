@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luis%20Alejandro%20Rosas%20Martínez&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=PhD%20in%20Applied%20Mathematics%20·%20AI%20Engineer&descAlignY=58&descSize=16&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luis%20Alejandro%20Rosas%20Martínez&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=PhD%20in%20Applied%20Mathematics%20·%20AI%20Engineer%20·%20Data%20Scientist&descAlignY=58&descSize=16&descColor=c9d1d9" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Applied+Mathematician+→+AI+Engineer;LLMs+·+RAG+·+Agentic+Systems+·+MLOps;PhD+·+Institut+Polytechnique+de+Paris;From+wave+equations+to+language+models)](https://git.io/typing-svg)
 
