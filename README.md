@@ -94,7 +94,7 @@ I care about **mathematical rigour in ML**: understanding *why* a model works, n
 
 </details>
 
-<details>
+<details open>
 <summary><b>⚙️ MLOps & Engineering</b></summary>
 <br/>
 
@@ -106,7 +106,7 @@ I care about **mathematical rigour in ML**: understanding *why* a model works, n
 
 </details>
 
-<details>
+<details open>
 <summary><b>📐 Mathematics</b></summary>
 <br/>
 
