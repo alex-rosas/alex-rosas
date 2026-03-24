@@ -126,6 +126,7 @@ The foundation everything else is built on.
 | 📄 | **Long time behaviour of Maxwell's equations in dissipative generalized Lorentz materials (II):** A modal approach | *arXiv preprint*, 2023 | [![arXiv](https://img.shields.io/badge/arXiv-2312.12231-b31b1b?style=flat-square)](https://arxiv.org/abs/2312.12231) |
 | 🎓 | **Study of Two Wave Propagation Problems in Dispersive Electromagnetic Media** | PhD Thesis, Institut Polytechnique de Paris / ENSTA Paris, 2023 | [![HAL](https://img.shields.io/badge/INRIA--HAL-hal--03850494-00A4CC?style=flat-square)](https://inria.hal.science/hal-03850494) |
 | 🎓 | **Bachelor's Thesis in Mathematics** | Facultad de Ciencias, UNAM, 2018 | [![UNAM](https://img.shields.io/badge/UNAM_Repository-003DA5?style=flat-square)](https://tesiunam.dgb.unam.mx/F/5TU6GLQUVFGIJAYQRFLKBIERGSARC47C1N525UN92NN3A1M2RV-18380?func=full-set-set&set_number=057884&set_entry=000001&format=999) |
+| 🎓 | **Existence of Non-Negative Weak Solutions to a Reaction-Diffusion-Chemotaxis System with a Cross-Diffusion Term** | Master's Report (Tesina), Instituto de Matemáticas, UNAM, 2020 | [![UNAM](https://img.shields.io/badge/UNAM_IIMAS-003DA5?style=flat-square)](https://mym.iimas.unam.mx/ramon/docs/TesinaAlejandroRosas.pdf) |
 
 *With Maxence Cassier & Patrick Joly (INRIA)*
 
