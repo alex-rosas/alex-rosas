@@ -8,7 +8,6 @@
 
 [![Email](https://img.shields.io/badge/luis061096%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis061096@gmail.com)
 [![GitHub](https://img.shields.io/badge/alex--rosas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-rosas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-rosas)
 
 </div>
 
